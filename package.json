@@ -1,0 +1,18 @@
+{
+  "name": "jotish",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "bootstrap": "^5.3.8",
+    "react-bootstrap": "^2.10.10",
+    "react-router-dom": "^7.13.0",
+    "react-webcam": "^7.2.0",
+    "recharts": "^3.7.0"
+  }
+}
